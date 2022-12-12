@@ -1,7 +1,7 @@
 # GraphCDR
 Source code and data for "GraphCDR: A graph neural network method with contrastive learning for cancer drug response prediction"
 
-![Framework of GraphCDR](https://github.com/liuxuan666/GraphCDR/blob/main/Framework.png)  
+![Framework of GraphCDR](https://github.com/Azra3lzz/GraphCDR/blob/main/Framework.png)  
 
 # Requirements
 * Python >= 3.6
